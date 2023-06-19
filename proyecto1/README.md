@@ -1,0 +1,1 @@
+el archivo "reportes de modelos.zip"son los reportes de los 10 modelos con cada una de los metodos de validacion y medidas de desempeño.
